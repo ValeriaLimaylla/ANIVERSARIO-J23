@@ -1,0 +1,38 @@
+body {
+  background-color: rgb(248, 241, 20);
+}
+.titulo h1 {
+  font-size: 60px;
+  font-family: "broadway";
+  color: rgb(3, 12, 69;);
+}
+.menu {
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  height: 100px;
+}
+.menu a {
+  color: white;
+  font-size: 30px;
+  font-family: "comic sans ms";
+  text-decoration: none;
+  padding: 15px;
+}
+.contenido img {
+  height: 300px;
+}
+.contenido {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.menu a:hover {
+  color: aqua;
+  font-size: 32px;
+}
+.contenido iframe {
+  height: 500px;
+  width: 1000px;
+}
